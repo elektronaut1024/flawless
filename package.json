@@ -1,0 +1,38 @@
+{
+  "name": "flawless",
+  "version": "0.4.3",
+  "description": "A callback factory which splits away handling errors into a separate flow and thus requiring less boilerplate code.",
+  "keywords": [
+    "error",
+    "error-handling",
+    "err",
+    "flow",
+    "callback",
+  ],
+  "homepage": "https://github.com/elektronaut1024/flawless.git",
+  "author": {
+    "name": "Lars Schultz",
+    "email": "schultz@widescreen.ch",
+    "url": "https://github.com/elektronaut1024"
+  },
+  "bugs": {
+    "url": "https://github.com/elektronaut1024/flawless/issues",
+    "email": "schultz@widescreen.ch"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/elektronaut1024/flawless/blob/master/LICENSE"
+    }
+  ],
+  "main": "flawless.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elektronaut1024/flawless.git"
+  },
+  "engines": {
+  },
+  "readme": "",
+  "readmeFilename": "README.md",
+  "_id": "flawless@0.1"
+}
