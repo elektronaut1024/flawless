@@ -1,13 +1,13 @@
 {
   "name": "flawless",
-  "version": "0.4.3",
+  "version": "0.1.0",
   "description": "A callback factory which splits away handling errors into a separate flow and thus requiring less boilerplate code.",
   "keywords": [
     "error",
     "error-handling",
     "err",
     "flow",
-    "callback",
+    "callback"
   ],
   "homepage": "https://github.com/elektronaut1024/flawless.git",
   "author": {
@@ -31,8 +31,9 @@
     "url": "https://github.com/elektronaut1024/flawless.git"
   },
   "engines": {
+  	"node": ">=0.3.0"
   },
   "readme": "",
   "readmeFilename": "README.md",
-  "_id": "flawless@0.1"
+  "_id": "flawless@0.1.0"
 }
